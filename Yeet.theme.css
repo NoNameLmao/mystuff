@@ -1,0 +1,11 @@
+//META{"name":"YeetEdited","description":"Yeeted","author":"rARTED (and NoNameLmao idk)","version":"1.1"}*//
+
+.da-winButton svg {display:none;}
+.da-winButtonClose:after {content:"no";color:#F04747;}
+.da-winButtonClose:hover:after {color:#fff;}
+.da-winButtonMinMax:nth-of-type(3):hover {background:#6c6;}
+.da-winButtonMinMax:nth-of-type(3):after {content:"test";color:#6c6;font-size:20px;position:relative;bottom:1px;}
+.da-winButtonMinMax:nth-of-type(3):hover:after {color:#fff;}
+.da-winButtonMinMax:nth-of-type(4):hover {background:#fb3;}
+.da-winButtonMinMax:nth-of-type(4):after {content:"p●g";color:#fb3;font-size:20px;}
+.da-winButtonMinMax:nth-of-type(4):hover:after {color:#fff;}
