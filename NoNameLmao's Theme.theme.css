@@ -1,4 +1,4 @@
-//META{"name":"NoNameLmao's Theme","description":"i totally made this theme by myself haha","author":"NoNameLmao","version":"0.0.1"}*//
+//META{"name":"NoNameLmao's Theme","description":"i totally made this theme by myself haha","author":"NoNameLmao","version":"0.0.1.69"}*//
 
 @import url(https://nonamelmao.github.io/mystuff/BasicBackgroundEdited.css);
 @import url(https://nonamelmao.github.io/mystuff/Yeet.theme.css)
@@ -11,7 +11,7 @@
     --memberlistransparency: 0;		/* default: 0 (additional darkness for member list can be changed in case a bright background makes the list hard to read)*/
     --accentcolor: 3,107,67; 		/* default: 190,78,180 discord: 114,137,218 bd-blue: 58,113,193*/
     --backdropblur: 0px;				/* default: 0px only works when --backdrop is set to an image *
-    
+
     /* DO NOT TOUCH ANYTHING BELOW THIS */
     --version1_0_5:					none;
     --backgroundsize: 				cover;
