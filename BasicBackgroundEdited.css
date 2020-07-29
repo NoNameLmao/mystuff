@@ -3200,7 +3200,7 @@ body:before {
 	background-color: #348feb;
 }
 .uploadModal-2ifh8j:after {
-	background-color: rgba(var(--vtransparencycolor), calc(var(--vtransparencyalpha) + 0.2));
+	background-color: #348feb;
 }
 .uploadModal-2ifh8j:before {
 	background: var(--vpopout) center/var(--vpopoutsize);
