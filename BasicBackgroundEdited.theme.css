@@ -240,7 +240,7 @@ body:before {
 .backdrop-1wrmKB {
 	background: var(--vbackdrop) center/var(--vbackdropsize) !important;
 	filter: blur(var(--vbackdropblur));
-	opacity: 0;
+	opacity: 1;
 	animation: none;
 }
 .backdropWithLayer-3_uhz4 {
@@ -3179,7 +3179,7 @@ body:before {
 /* ----		13.4.	UPLOADMODAL						---- */
 
 #app-mount .uploadModal-2ifh8j {							/* modal				container							*/
-	background-color: transparent;
+	background-color: #348feb;
 	box-shadow: 0 0 0 1px rgba(var(--vtransparencycolor), 0.3), 0 2px 10px 0 rgba(var(--vtransparencycolor), 0.3);
 	position: relative;
 	border-radius: 10px;
