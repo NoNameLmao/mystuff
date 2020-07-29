@@ -240,7 +240,7 @@ body:before {
 .backdrop-1wrmKB {
 	background: var(--vbackdrop) center/var(--vbackdropsize) !important;
 	filter: blur(var(--vbackdropblur));
-	opacity: 0.8;
+	opacity: 0;
 	animation: none;
 }
 .backdropWithLayer-3_uhz4 {
