@@ -3197,7 +3197,6 @@ body:before {
 	pointer-events: none;
 	border-radius: 10px;
 	z-index: -1;
-	background-color: #348feb !important;
 	opacity: 0.5 !important;
 }
 .uploadModal-2ifh8j:after {
