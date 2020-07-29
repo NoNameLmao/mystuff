@@ -3235,10 +3235,10 @@ body:before {
 	object-position: -9999999px -9999999px;
 }
 .uploadModal-2ifh8j .inner-zqa7da {							/* modal				channeltextarea						*/
-	background-color: rgba(var(--vtransparencycolor), 0.3);
+	background-color: #348feb;
 }
 .uploadModal-2ifh8j .footer-3mqk7D {						/* modal				footer								*/
-	background-color: rgba(var(--vtransparencycolor), 0.2);
+	background-color: #348feb;
 }
 .uploadModal-2ifh8j .checkbox-1ix_J3 {						/* modal				checkbox							*/
 	border-color: rgb(var(--fontwhite1)) !important;
